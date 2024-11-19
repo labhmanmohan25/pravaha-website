@@ -157,9 +157,11 @@ const App = () => {
           </div>
           {selectedNode && (
             <>
-              <h2 class="subtitle">Create Medicine in: {selectedNode.name}</h2>
               {selectedNode.role === "Manufacturer" && (
                 <div>
+                  <h2 class="subtitle">
+                    Create Medicine in: {selectedNode.name}
+                  </h2>
                   <div class="row center-y space-x-5">
                     <input
                       class="input is-success"
