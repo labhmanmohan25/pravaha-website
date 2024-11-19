@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/pravaha-website/static/css/main.15937a00.css",
-    "main.js": "/pravaha-website/static/js/main.62d7e48e.js",
+    "main.js": "/pravaha-website/static/js/main.62d9441b.js",
     "static/js/453.7e4f5420.chunk.js": "/pravaha-website/static/js/453.7e4f5420.chunk.js",
     "static/media/wallpaper_wood.png": "/pravaha-website/static/media/wallpaper_wood.bd2a4355c0c985e1f670.png",
     "static/media/manufacturer.png": "/pravaha-website/static/media/manufacturer.610d3f4326ecfde2fe2e.png",
@@ -14,11 +14,11 @@
     "index.html": "/pravaha-website/index.html",
     "static/media/check.svg": "/pravaha-website/static/media/check.6306641e7559a690dfa0.svg",
     "main.15937a00.css.map": "/pravaha-website/static/css/main.15937a00.css.map",
-    "main.62d7e48e.js.map": "/pravaha-website/static/js/main.62d7e48e.js.map",
+    "main.62d9441b.js.map": "/pravaha-website/static/js/main.62d9441b.js.map",
     "453.7e4f5420.chunk.js.map": "/pravaha-website/static/js/453.7e4f5420.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.15937a00.css",
-    "static/js/main.62d7e48e.js"
+    "static/js/main.62d9441b.js"
   ]
 }
