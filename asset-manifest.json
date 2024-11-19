@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/pravaha-website/static/css/main.15937a00.css",
+    "main.js": "/pravaha-website/static/js/main.62d7e48e.js",
+    "static/js/453.7e4f5420.chunk.js": "/pravaha-website/static/js/453.7e4f5420.chunk.js",
+    "static/media/wallpaper_wood.png": "/pravaha-website/static/media/wallpaper_wood.bd2a4355c0c985e1f670.png",
+    "static/media/manufacturer.png": "/pravaha-website/static/media/manufacturer.610d3f4326ecfde2fe2e.png",
+    "static/media/middleman.png": "/pravaha-website/static/media/middleman.f1aecdb51b359bf54bf2.png",
+    "static/media/medicine.png": "/pravaha-website/static/media/medicine.6cf014a70230ecc8e0a8.png",
+    "static/media/wallpaper_leaves.png": "/pravaha-website/static/media/wallpaper_leaves.8d14a4788734abd48433.png",
+    "static/media/retailer.png": "/pravaha-website/static/media/retailer.5d8834abfac21f44ce68.png",
+    "static/media/kindestreality-webfont.woff": "/pravaha-website/static/media/kindestreality-webfont.f8ca3cf1f6707c0062ec.woff",
+    "static/media/kindestreality-webfont.woff2": "/pravaha-website/static/media/kindestreality-webfont.43ab934823232068d8a6.woff2",
+    "index.html": "/pravaha-website/index.html",
+    "static/media/check.svg": "/pravaha-website/static/media/check.6306641e7559a690dfa0.svg",
+    "main.15937a00.css.map": "/pravaha-website/static/css/main.15937a00.css.map",
+    "main.62d7e48e.js.map": "/pravaha-website/static/js/main.62d7e48e.js.map",
+    "453.7e4f5420.chunk.js.map": "/pravaha-website/static/js/453.7e4f5420.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.15937a00.css",
+    "static/js/main.62d7e48e.js"
+  ]
+}
