@@ -1,57 +1,13 @@
-body {
-  background-color: #121212;
-  color: #ffffff;
-  font-family: Arial, sans-serif;
-  display: flex;
-  justify-content: center;
-  align-items: flex-start; /* Align items to the top */
-  height: 100vh;
-  margin: 0;
-  overflow-y: auto; /* Enable vertical scrolling */
-}
+@import "retro.css/css/index.min.css";
 
 .app {
   padding: 20px;
   margin: 20px;
-  width: 95vw; /* Occupy full width */
-  /* max-width: 1200px; */
-  background-color: #1e1e1e;
-  border-radius: 10px;
-  box-sizing: border-box; /* Include padding and border in element's total width and height */
+  background-color: #c1b8a7;
+  box-sizing: border-box;
   display: flex;
   flex-direction: column;
-  align-items: center; /* Center align all content horizontally */
-}
-
-h1, h2, h3, h4 {
-  color: #ffffff;
-}
-
-input, select, button {
-  margin: 10px 0;
-  padding: 10px;
-  border: none;
-  border-radius: 5px;
-}
-
-input {
-  background-color: #333333;
-  color: #ffffff;
-}
-
-button {
-  background-color: #6200ea;
-  color: #ffffff;
-  cursor: pointer;
-  margin: 10px; /* Add margin to buttons */
-  padding: 10px 20px; /* Add padding to buttons */
-  border-radius: 5px; /* Add border-radius to buttons */
-  border: none; /* Remove default border */
-  transition: background-color 0.3s ease; /* Add transition for hover effect */
-}
-
-button:hover {
-  background-color: #3700b3; /* Change background color on hover */
+  align-items: center;
 }
 
 button img {
@@ -60,29 +16,18 @@ button img {
   margin-right: 5px;
 }
 
-ul {
-  list-style-type: none;
-  padding: 0;
-  display: flex; /* Display list items horizontally */
-  flex-wrap: wrap; /* Allow wrapping to the next line if necessary */
-  justify-content: center; /* Center align list items horizontally */
-}
-
-li {
-  margin: 10px;
-  padding: 10px;
-  background-color: #333333;
-  border-radius: 5px;
-  cursor: pointer;
-}
-
-li:hover {
-  background-color: #444444;
-}
-
 .nodes-section {
   display: flex;
   flex-direction: column;
-  gap: 20px;
-  align-items: center; /* Center align nodes section horizontally */
+  align-items: center;
+}
+
+.medincine-title {
+  margin-right: 1rem;
+  color: #6f5643
+}
+
+li {
+  color: #6f5643;
+  font-weight: 600;
 }
